@@ -3,13 +3,16 @@
 - Email : noearredondo2018@gmail.com
 
 ##Actividad 1
--Programa 
+-Programa 1
 -Programa 2
 -Programa 3
 
 ##Actividad 2
 -Programa 1
 -Programa 2
+-Programa 3
 
 ##Actividad 3
 -Programa 1
+-Programa 2
+-Programa 3
