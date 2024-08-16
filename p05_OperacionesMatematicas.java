@@ -14,6 +14,7 @@ public class p05_OperacionesMatematicas {
         res = x % y;
         pot = Math.pow(x, y);
 
+        
         System.out.println(String.format("Los numeros son: %.2f, %.2f", x,y));
         System.out.println(String.format("La suma es           : %.2f", suma));
         System.out.println(String.format("La resta es          : %.2f", resta));
