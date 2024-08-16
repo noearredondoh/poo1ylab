@@ -18,6 +18,7 @@ public class p06_PromedioCalificaciones {
         max = Math.max( Math.max(cal1,cal2) , cal3);
         min = Math.min( Math.min(cal1,cal2) , cal3);
 
+        
         System.out.printf("\nLos valore de las calificaciones son %.2f, %.2f, %.2f\n", cal1,cal2,cal3);
         System.out.println(String.format("La suma es           : %.2f\n", suma));
         System.out.println(String.format("El promedio          : %.2f\n", prom));
