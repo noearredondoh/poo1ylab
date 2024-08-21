@@ -23,9 +23,15 @@
 - p14_CalculoTiempo
 - p15_ConvertirADolares
 
-## Actividad 3
+## Actividad 3 - Trabajando con numeros
 - p16_TrabajandoEnteros
 - p17_TrabajandoFlotantes
 - p18_TrabajandoConstantes
 - p19_TrabajandoCaracteres
 - p20_ConversionTipos
+
+## Actividad 4 - Ejecucion condicional
+- p21_VerificarNumero
+- p22_VerificarSuma
+- p23_ConvertirTemperaturaV2
+- p24_PagaTrabajadorV2
