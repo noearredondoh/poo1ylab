@@ -41,3 +41,9 @@
 - p26_TipoAngulo
 - p27_AceptarEstudiante
 - p28_LeyDeNewton
+
+## Actividad 6 - Ejecucion condicional parte 3
+- p29_Calculadora
+- p30_DiaSemana
+- p31_NumerosRomanos
+- p32_PagoEstacionamiento
