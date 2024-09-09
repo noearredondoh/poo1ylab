@@ -93,3 +93,6 @@
 - p62_SecuenciaNumeros2
 - p63_SumaTerminos1
 - p64_SumaTerminos2
+
+## Practica 5 - Practica de repaso 1er Parcial
+- p65_ControlFotocopias
