@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class p66_PrimerExamenParcial {
+public class pe01_PrimerExamenParcial {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J"); System.out.flush();
         final int COSTO_ALUMNO = 40;

@@ -98,4 +98,11 @@
 - p65_ControlFotocopias
 
 ## Primer Examen Parcial
--  p66_PrimerExamenParcial
+-  pe01_PrimerExamenParcial
+
+## Actividad 11 - Funciones Parte 1
+- p66_PromedioNumeros
+- p67_ConversionTemperaturas
+- p68_SumaRango
+- p69_TablaMultiplicar
+- p70_CalificacionLetra
