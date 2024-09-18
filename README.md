@@ -106,3 +106,10 @@
 - p68_SumaRango
 - p69_TablaMultiplicar
 - p70_CalificacionLetra
+
+## Actividad 12 - Funciones parte 2
+- p71_MayorTresNumeros
+- p72_SumaDigitos
+- p73_SumaParesImpares
+- p74_Factorial
+- p75_CuadroCaracter 
