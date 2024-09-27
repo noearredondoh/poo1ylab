@@ -146,3 +146,8 @@
 - p96_Empleado03
 - p97_Empleado04
 
+## Practica 08 - POO Clases y Objetos
+- p98_Circulo
+- p99_Rectangulo
+- p100_Articulo
+
