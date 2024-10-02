@@ -156,3 +156,7 @@
 - p102_AutorLibro
 - p103_ClienteFactura
 
+## Practica 9 - POO Composición
+- p104_PuntoCirculo
+- p105_PuntoTriangulo
+
