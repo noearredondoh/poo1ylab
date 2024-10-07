@@ -160,3 +160,6 @@
 - p104_PuntoCirculo
 - p105_PuntoTriangulo
 
+## Actividad 17 -POO - Herencia y Abstracción
+- p106_Persona
+- p107_Forma
