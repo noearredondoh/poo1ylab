@@ -170,3 +170,9 @@
 
 ## Actividad 18 - POO - Ej Cuenta Bancaria V1
 - p110_CuentaBancariaV1 
+
+## Actividad 19  - POO - Ej Cuenta Bancaria V2
+- p111_CuentaBancariaV2
+
+## Practica 11 - POO - Repaso - Examen parcial 02
+- p112_ControlVentas
