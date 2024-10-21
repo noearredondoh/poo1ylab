@@ -177,3 +177,12 @@
 ## Practica 11 - POO - Repaso - Examen parcial 02
 - p112_ControlVentas
 
+## Segundo Examen
+- p113_Segundo_Parcial
+
+## Actividad 20 - POO - Interfaces
+- p114_Animal
+- p115_Telefono
+- p116_Juego
+- p117_FiguraGeometrica
+
