@@ -186,3 +186,6 @@
 - p116_Juego
 - p117_FiguraGeometrica
 
+## Actividad 21 - Herencia en Interfaces
+- p118_Calculadora
+- p119_Organismo
