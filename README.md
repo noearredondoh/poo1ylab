@@ -219,3 +219,8 @@
 - p137_ArchivoMunicipios
 - p138_ArchivoMaterias
 - p139_ArchivoEstudiante
+
+## Actividad 24 - Interfaz gráfica - Parte 1
+- p140_HolaMundoGUI
+- p141_AreaTrianguloGUI
+- p142_LeyDeNewtonGUI
