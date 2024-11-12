@@ -228,3 +228,6 @@
 ## Practica 15 - Interfaz gráfica - Parte 1
 - p143_PagaTrabjadorGUI
 - p144_TemperaturasGUI
+
+## Actividad 25 - Interfaz gráfica - Parte 2
+- p145_EstudianteGUI_V1
