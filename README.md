@@ -231,3 +231,5 @@
 
 ## Actividad 25 - Interfaz gráfica - Parte 2
 - p145_EstudianteGUI_V1
+- p146_EstudianteGUI_V2
+
